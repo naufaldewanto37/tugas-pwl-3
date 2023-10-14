@@ -1,4 +1,4 @@
-#Aplikasi Web Sederhana dengan React JS  
+#Aplikasi Web Sederhana dengan React JS#  
 ##Deskripsi  
 Aplikasi web ini adalah contoh sederhana yang dibuat menggunakan React JS. Aplikasi ini memiliki tiga komponen utama: **Header**, **MainContent**, dan **Footer**. Selain itu, aplikasi ini juga menggunakan React Router untuk navigasi dan memiliki tiga halaman: **Beranda**, **Tentang**, dan **Kontak**.
 
